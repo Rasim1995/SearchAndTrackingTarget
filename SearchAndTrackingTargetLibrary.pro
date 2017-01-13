@@ -35,3 +35,5 @@ LIBS+=C://OpenCV31//buildmgw//bin//libopencv_core310.dll
 LIBS+=C://OpenCV31//buildmgw//bin//libopencv_imgcodecs310.dll
 
 FORMS +=
+
+#jkjhjk
